@@ -2,7 +2,7 @@
 
 We provide an implementation of the models with which we participated (as team Andi) in the CONcreTEXT task of EVALITA 2020. The task involved predicting subjective ratings of concreteness for words presented in context. Our approach, which ranked first in both the English and Italian tracks, relies on a combination of context-dependent and context-independent distributional models, together with behavioural norms.
 
-If you want to test our models, you can run the English and Italian demos (see the two Jupyter notebooks). Please feel free to experiment with your own combinations of stimuli, norms, and models, once you make sure that they are in the proper format (see the information provided below). If you get interesting results, please let me know! 🙂  
+If you want to test our models, you can run the English and Italian demos (see the two Jupyter notebooks). Please feel free to experiment with your own combinations of stimuli, norms, and models, once you make sure that they are in the proper format (see the information provided below). If you get interesting results, please let us know! 🙂  
 
 ## Before you start
   
