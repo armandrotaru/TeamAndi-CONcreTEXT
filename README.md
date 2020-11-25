@@ -17,7 +17,7 @@ pip install notebook pandas scipy scikit-learn transformers
 2) Place the necessary files in their corresponding directories, as follows:
 
 * **Put the files 'CONcreTEXT_trial_EN.tsv' and 'CONcreTEXT_trial_IT.tsv' in the 'stimuli' folder.** 
-The two files can be obtained from the dedicated [OSF repository](https://osf.io/j4dz3/).
+The two files can be obtained from the dedicated [OSF project](https://osf.io/j4dz3/).
 
 * **(Optional) Put the behavioural norms in the 'behavioural-norms' folder.** Each file must be in .CSV format and have a header with the variable names (e.g., Word,Frequency,SemanticDiversity,...). The first column ('Word') must contain the normed words, while the other columns must contain the behavioural data. For copyright reasons, we cannot upload the norms we used for our submission, but you can download them yourself by using the following links (just remember to convert them to the right format, keeping only the columns of interest):
     * [concreteness](http://crr.ugent.be/papers/Concreteness_ratings_Brysbaert_et_al_BRM.txt)
